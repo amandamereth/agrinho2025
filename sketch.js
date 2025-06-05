@@ -1,4 +1,4 @@
- let campoObj, cidadeObj;
+      let campoObj, cidadeObj;
         let arrastando = null;
         let conectado = false;
 
