@@ -20,7 +20,7 @@
             fill("#413B06");
             textSize(24);
             textAlign(CENTER, CENTER);
-            text(conectado ? "Parabéns,Conexão feita! 🌱🏙️" : "Arraste a planta para a cidade com o mouse!", width / 2, 50);
+            text(conectado ? "Parabéns,Conexão feita! 🌱🏙️" : "leve a planta para a cidade com o mouse!", width / 2, 50);
 
             // Verifica se o item foi movido para a cidade
             if (conectado) {
